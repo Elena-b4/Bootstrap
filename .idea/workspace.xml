@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a61c8a0-4102-4db8-a5ae-92edc43fb71f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/index2.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PlacesBaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PlacesBaseController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -230,6 +229,7 @@
       <workItem from="1609065842268" duration="14000" />
       <workItem from="1611382416370" duration="9000" />
       <workItem from="1611750703166" duration="37000" />
+      <workItem from="1613222163512" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1608227715962</created>
